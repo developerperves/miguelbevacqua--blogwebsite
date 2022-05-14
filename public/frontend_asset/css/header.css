@@ -1,0 +1,39 @@
+.akea-navigation {
+    padding-top: 0px;
+}
+.akea-header-style-plain.akea-style-splitted-menu .akea-navigation .sf-menu>li>a {
+    margin-top: 50px;
+}
+.akea-logo {
+    padding-top: 0px;
+}
+.akea-header-style-plain.akea-style-splitted-menu .akea-main-menu-left-wrap, .akea-header-style-plain.akea-style-splitted-menu .akea-main-menu-right-wrap {
+    margin-top: 0px;
+}
+
+
+
+@media (min-width:1000px) and (max-width: 2200px) {
+    .akea-header-style-plain.akea-style-splitted-menu .akea-right-menu-button {
+        margin-left: 0px;
+        display: none;
+    }
+    .akea-header-container-inner #a_aff0_0 {
+        padding: 7px 28px 7px 30px;
+    }
+  }
+
+
+  .akea-header-container-inner #a_aff0_0 {
+    padding: 7px 28px 7px 30px;
+}
+
+.logohere {
+    display: none;
+    float: left;
+    padding-top: 0px;
+}
+
+.akea-fixed-navigation.akea-header-style-plain.akea-style-splitted-menu .akea-navigation .logohere {
+    display: inline-block;
+}

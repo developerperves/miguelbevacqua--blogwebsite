@@ -1,0 +1,21 @@
+/* 
+.share_option .social-links ul li a
+
+
+*/
+.share_option span{
+    display: inline-block;
+}
+.share_option #social-links{
+    display: inline-block;
+}
+.share_option ul{
+    margin: 0;
+}
+
+.share_option ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 0 10px;
+
+}
